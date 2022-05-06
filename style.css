@@ -33,11 +33,15 @@
     height: 200px;
     width: 210px;
     background-color: yellow;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 #advertisement {
     height: 120px;
     width: 660px;
     background-color: purple;
+    margin-top: 20px;
+    margin-left: 15px;
 }
 .row {
     /* TODO - what should go here? */
